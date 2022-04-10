@@ -1,0 +1,7 @@
+{
+  "name": "ejeCrudFirebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
